@@ -148,6 +148,9 @@
         <loc>https://webpack.js.org/concepts/plugins</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/concepts/targets</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/concepts/under-the-hood</loc>
     </url>
     <url>
@@ -169,13 +172,10 @@
         <loc>https://webpack.js.org/configuration/entry-context</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/configuration/experiments</loc>
-    </url>
-    <url>
         <loc>https://webpack.js.org/configuration/externals</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/concepts/targets</loc>
+        <loc>https://webpack.js.org/configuration/experiments</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/configuration/mode</loc>
@@ -187,10 +187,10 @@
         <loc>https://webpack.js.org/configuration/node</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/configuration/other-options</loc>
+        <loc>https://webpack.js.org/configuration/optimization</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/configuration/optimization</loc>
+        <loc>https://webpack.js.org/configuration/other-options</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/configuration/output</loc>
@@ -262,10 +262,10 @@
         <loc>https://webpack.js.org/guides/author-libraries</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/guides/build-performance</loc>
+        <loc>https://webpack.js.org/guides/caching</loc>
     </url>
     <url>
-        <loc>https://webpack.js.org/guides/caching</loc>
+        <loc>https://webpack.js.org/guides/build-performance</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/guides/code-splitting</loc>
@@ -292,13 +292,13 @@
         <loc>https://webpack.js.org/guides/dependency-management</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/guides/development</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/guides/development-vagrant</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/guides/entry-advanced</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/guides/development</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/guides/environment-variables</loc>
@@ -562,13 +562,13 @@
         <loc>https://webpack.js.org/api/plugins/compiler</loc>
     </url>
     <url>
+        <loc>https://webpack.js.org/api/plugins/module-factories</loc>
+    </url>
+    <url>
         <loc>https://webpack.js.org/api/plugins/parser</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/api/plugins/resolver</loc>
-    </url>
-    <url>
-        <loc>https://webpack.js.org/api/plugins/module-factories</loc>
     </url>
     <url>
         <loc>https://webpack.js.org/api/plugins/tapable</loc>
